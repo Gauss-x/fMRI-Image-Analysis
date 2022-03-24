@@ -22,7 +22,7 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
-
+lol
 [Link](url) and ![Image](src)
 
 ![Book logo](/fMRI-Image-Analysis/docs/assets/rotation.png)

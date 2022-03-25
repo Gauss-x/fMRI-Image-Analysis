@@ -12,9 +12,14 @@ Subjects performed two 5-minute blocks, each containing 12 congruent and 12 inco
 
 ### Flanker Task
 
-### Initial Analysis
+### Preprocessing & Analysis
 
 
 ![rot](/fMRI-Image-Analysis/docs/assets/rotation.png)
+![rot](/fMRI-Image-Analysis/docs/assets/normalization.png)
+![rot](/fMRI-Image-Analysis/docs/assets/smoothing.png)
+![rot](/fMRI-Image-Analysis/docs/assets/dm.png)
+![rot](/fMRI-Image-Analysis/docs/assets/an.png)
+![rot](/fMRI-Image-Analysis/docs/assets/hij.png)
 
-
+### Scripting

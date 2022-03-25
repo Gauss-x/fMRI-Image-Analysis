@@ -1,25 +1,38 @@
 ## fMRI Image Analysis
 
+I am currently teaching myself how to analyze brain imaging data using SPM in MATLAB. I am following a tutorial created by Andy Jahn. Link for the tutorial: https://andysbrainbook.readthedocs.io/en/latest/SPM/SPM_Overview.html 
+
 ### Overview
 
 ### Dataset
 
-This dataset was obtained from the OpenfMRI project (http://www.openfmri.org). Accession #: ds102 Description: Flanker task (event-related)
+Link to the dataset: https://openneuro.org/datasets/ds000102/versions/00001
 
-On each trial (inter-trial interval (ITI) varied between 8 s and 14 s; mean ITI=12 s),participants used one of two buttons on a response pad to indicate the direction of a central arrow in an array of 5 arrows. In congruent trials the flanking arrows pointed in the same direction as the central arrow (e.g., < < < < <), while in more demanding incongruent trials the flanking arrows pointed in the opposite direction (e.g., < < > < <).
-
-Subjects performed two 5-minute blocks, each containing 12 congruent and 12 incongruent trials, presented in a pseudorandom order.
+Reference for the dataset: Kelly, A.M., Uddin, L.Q., Biswal, B.B., Castellanos, F.X., Milham, M.P. (2008). Competition between functional brain networks mediates behavioral variability. Neuroimage, 39(1):527-37
 
 ### Flanker Task
 
-### Preprocessing & Analysis
+### Preprocessing, Analysis, and Modelling
 
+Images below belong to Subject-08
 
 ![rot](/fMRI-Image-Analysis/docs/assets/rotation.png)
+
 ![rot](/fMRI-Image-Analysis/docs/assets/normalization.png)
+normalization
+
 ![rot](/fMRI-Image-Analysis/docs/assets/smoothing.png)
+smoothing
+
 ![rot](/fMRI-Image-Analysis/docs/assets/dm.png)
+
 ![rot](/fMRI-Image-Analysis/docs/assets/an.png)
+analysis
 ![rot](/fMRI-Image-Analysis/docs/assets/hij.png)
+modelling
 
 ### Scripting
+
+### Group Analysis
+
+### ROI Analysis

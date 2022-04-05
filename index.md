@@ -2,7 +2,6 @@
 
 I am currently teaching myself how to analyze brain imaging data using SPM in MATLAB. I am following a tutorial created by Andy Jahn. Link for the tutorial: https://andysbrainbook.readthedocs.io/en/latest/SPM/SPM_Overview.html 
 
-Project start date --> 3/23/2022
 
 ### Overview
 
